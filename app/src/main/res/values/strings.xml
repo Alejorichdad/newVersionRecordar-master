@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Recordar 2016</string>
+    <string name="prueba">Un Mundo de Beneficios</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_imagen1">Titulo imagen</string>
+    <string name="beneficio1">Beneficio</string>
+    <string name="title_activity_alianzas_nacionales">AlianzasNacionales</string>
+    <string name="title_activity_test">TestActivity</string>
+
+    <!-- Barranquilla details strings-->
+
+    <string name="barranquilla_title_first">Titulo baranquilla</string>
+    <string name="barranquilla_title_sec">Titulo baranquilla dos</string>
+    <string name="barranquilla_desc_first">
+        Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment
+    </string>
+
+    <string name="barranquilla_desc_sec">
+        Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment
+    </string>
+
+
+    <!-- Recycler view ciudades (8) -->
+    <string name="national_title">Alianzas Nacionales</string>
+    <string name="national_description">Alianzas por todo el pais</string>
+
+    <string name="barranquilla_title">Alianzas Barranquillas</string>
+    <string name="barranquilla_description">Alianzas Barranquilla</string>
+
+    <string name="bogota_title">Alianzas Bogota</string>
+    <string name="bogota_description">Alianzas Bogota</string>
+
+    <string name="boyaca_title">Alianzas Boyaca</string>
+    <string name="boyaca_description">Alianzas Boyaca</string>
+
+    <string name="cali_title">Alianzas Cali</string>
+    <string name="cali_description">Alianzas Cali</string>
+
+    <string name="cartagena_title">Alianzas Cartagena</string>
+    <string name="cartagena_description"> Alianzas Cartagena</string>
+
+    <string name="pasto_title">Alianzas Pasto</string>
+    <string name="pasto_description">Alianzas Pasto</string>
+
+    <string name="valle_title">Alianzas Valle</string>
+    <string name="valle_description">Alianzas Valle</string>
+
+
+
+</resources>

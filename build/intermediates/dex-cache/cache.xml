@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alejorichdad/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_81cf74f80257bd8169f03cfebfbce97d6184478f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_286bf71b7f27e022f987cd483293f10275b89817/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_fae151f6838a899d1e11751c96a223651571d9dc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_f7ec970e361e920df8f88e8cff72d956a3ea48aa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_5ef24179da836660997083e81a1af56522a81b11/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_d150f0fac020f94b129447437790c77605a662fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="21295d637188d73de2e327f01fa9562ccddb53df">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a6defbfa255198a8c9a131e429392bf75d012938/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d15069f101115780c30594c8064d2e88ffe55da6">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_554162a1d4662ac58fcfa4ee4f25db1777acce81/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_6fcf9921c3a6bca8b2c4ff7dc2a1e714415a497e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_e0c5ce3a2a08cc43b231b9a73a2f5e85c68422f4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_c625346d867d57d37216865a0d1450bd9a5b917a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_dca472aac7a45bb8456c877550de12ef81e4a265/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_3602fb5f4bcf3d55d49116a106dd9da011fcf546/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_d357830825cbf6a0188d2af86d3207258fc914f7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_ea6cbdc2883c1526e086a1b8b34601306903aaf2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_3bd07d379edd74b30de8948769c21dd0e80e6edb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="52630445b9b58147ffe3ca1ced557a5df2479699">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9ef77e72377dfb183a4516ea66706fa0c37e5d13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_7af3fa1f1a6297afeacbc8c1f9b5b9ea3c72bfdb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="0118ae10b8854b9faff113395982bc0bd15b0ead">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3edc4b2d7f453d00d7e4464ba7e8d6714b6826ac/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_7531ecab36b9450ec264ba50866782c6fd7319f1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/alejorichdad/Downloads/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_2eb0f87af2cd16af77ceaabd62bcb9f7dd2369df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/alejorichdad/Documents/newVersionRecordar-master/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_47b73b35634d620412ea8ec53cf2b325eb6dbe7f/classes.dex" />
+    </item>
+
+</items>
